@@ -11,6 +11,7 @@ Call the list and prepare APIs from your server. Keep your **EPP Token** and **M
 1. Ask PAYable to enable EPP plans for your merchant account.
 2. In the Merchant Portal, go to **Settings → EPP Integration** and copy your **EPP Token** (this is a secret).
 3. Confirm the plans and banks you need are active for your merchant portal.
+<img width="1852" height="732" alt="image" src="https://github.com/user-attachments/assets/a6ed6bd8-1230-4c70-a116-c3aca2e52731" />
 
 You will also need:
 
